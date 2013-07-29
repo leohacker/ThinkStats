@@ -1,0 +1,4 @@
+ThinkStats
+==========
+
+Think Stats exercises
